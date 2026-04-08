@@ -28,7 +28,7 @@ To showcase a professional solution for service-based businesses that need to ca
 
 ## 📸 Preview
 <div align="center">
-  <img src="assets/img/preview-desktop.png" alt="Desktop Preview" width="800">
+  <img src="preview-desktop.png" alt="Desktop Preview" width="800">
 </div>
 
 ---
