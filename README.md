@@ -8,6 +8,8 @@ This is a high-conversion Landing Page designed specifically for the legal and c
 
 ---
 
+**🌎 [Live Demo](https://legal-landing-page-zeta.vercel.app/)**
+
 ## 🎯 Project Goals
 To showcase a professional solution for service-based businesses that need to capture qualified leads. The site is built with a global mindset: it is fully responsive, bilingual, and optimized for paid traffic campaigns (Google Ads / Meta Ads).
 
